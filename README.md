@@ -2,9 +2,13 @@
 Thank you for checking my profile, and would like to tell you about myself.
 I started my career in the game industry as a C# programmer. Since then, I had various opportunities to work on mobile📱games as a programmer using the Unity3D Game Engine and casino 🎰 games as a Game Programmer. Additionally, I have experience working in VR 🥽 using Unreal Engine 5.1 and Unity as a VR Programmer.
 
+## Skills 
+* Game Programming Patterns
+* Objected Oriented Programming
+* Code commenting and documentation
+* Debugging Skills
 
-
-
+## Work Experience
 
 
 
