@@ -9,7 +9,7 @@ I started my career in the game industry as a C# programmer. Since then, I had v
 * Debugging Skills
 
 # Daily routine
-- I’m currently working on a causal game which is pinned below
+- I’m currently working on a causal game Try Your Luck which is pinned below
 - I am playing it takes two, It is fun to play and exploring the level design and mini-games in it.
 
 <!--
