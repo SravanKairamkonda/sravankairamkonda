@@ -8,8 +8,6 @@ I started my career in the game industry as a C# programmer. Since then, I had v
 * Code commenting and documentation
 * Debugging Skills
 
-## Work Experience
-
 
 
 <!--
