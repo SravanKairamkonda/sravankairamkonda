@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I am Sravan Kumar
+Thank you for checking my profile, and would like to tell you about myself.
+I started my career in the game industry as a C# programmer. Since then, I had various opportunities to work on mobile📱games as a programmer using the Unity3D Game Engine and casino 🎰 games as a Game Programmer. Additionally, I have experience working in VR 🥽 using Unreal Engine 5.1 and Unity as a VR Programmer.
+
+
+
+
+
+
 
 <!--
 **SravanKairamkonda/sravankairamkonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
