@@ -4,10 +4,6 @@
 Thank you for checking my profile, and I would like to tell you about myself.
 I started my career in the game industry as a C# programmer. Since then, I had various opportunities to work on mobile📱games as a programmer using the Unity3D Game Engine and casino 🎰 games as a Game Programmer. Additionally, I have experience working in VR 🥽 using Unreal Engine 5.1 and Unity as a VR Programmer.
 
-## Projects
-
-https://github.com/SravanKairamkonda/TryYourLuck
-
 ## Skills and Technologies
 **`Game Programming Patterns`**
 **`Objected Oriented Programming`**
@@ -43,6 +39,8 @@ Gameshastra · Internship
 - Worked in a team to develop mini-games using Unity Assets, adapting changes to the games weekly.
 - Prototyping new tools and features by following game design documentation.
 - Built mobile games for Play Store and App Store to play test the performance of the games as prototype versions for the clients.
+
+<!--
 ## Education
 Sep 2021 - Sep 2022 Goldsmiths, University of London<br>
 Master of Science - MS, Computer Games and Programming Skills<br>
@@ -55,6 +53,7 @@ Electives are Game Design Challenges, Level Designing, Character Design, Advance
 # Daily routine
 - I’m currently working on a causal game Try Your Luck which is pinned below
 - I am playing It Takes Two, It is fun to play and explore the level design and mini-games in it.
+-->
 
 <!--
 **SravanKairamkonda/sravankairamkonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
