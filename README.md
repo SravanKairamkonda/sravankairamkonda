@@ -5,7 +5,7 @@ Thank you for checking my profile, and I would like to tell you about myself.
 I started my career in the game industry as a C# programmer. Since then, I had various opportunities to work on mobile📱games as a programmer using the Unity3D Game Engine and casino 🎰 games as a Game Programmer. Additionally, I have experience working in VR 🥽 using Unreal Engine 5.1 and Unity as a VR Programmer.
 
 ## Projects
-[<img src="https://github.com/SravanKairamkonda/sravankairamkonda/blob/main/Pick.png?raw=true">](https://github.com/SravanKairamkonda/TryYourLuck)
+[<img src="https://github.com/SravanKairamkonda/sravankairamkonda/blob/main/Pick.png?raw=true" width="320" height="180">](https://github.com/SravanKairamkonda/TryYourLuck)
 
 ## Skills and Technologies
 **`Game Programming Patterns`**
