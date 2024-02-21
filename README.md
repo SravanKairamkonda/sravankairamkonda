@@ -6,7 +6,7 @@ I started my career in the game industry as a C# programmer. Since then, I had v
 
 ## Projects
 [<img src="https://github.com/SravanKairamkonda/sravankairamkonda/blob/main/Pick.png?raw=true" width="320" height="180">](https://github.com/SravanKairamkonda/TryYourLuck)<br>
-<em>You can just pass your time by guessing the cards. Try your luck where there is no progress and no competition since it is lucky. Give a chance how you are in it. if you are bored come back and guess whenever you are bored </em>
+<!--em>You can just pass your time by guessing the cards. Try your luck where there is no progress and no competition since it is lucky. Give a chance how you are in it. if you are bored come back and guess whenever you are bored </em-->
 
 ## Skills and Technologies
 **`Game Programming Patterns`**
