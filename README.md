@@ -1,8 +1,8 @@
 ### Hi there 👋, I am Sravan Kumar
 **`VR Programmer / Game Programmer`**<br>
 <br>
-Thank you for checking my profile, and I would like to tell you about myself.
-I started my career in the game industry as a C# programmer. Since then, I had various opportunities to work on mobile📱games as a programmer using the Unity3D Game Engine and casino 🎰 games as a Game Programmer. Additionally, I have experience working in VR 🥽 using Unreal Engine 5.1 and Unity as a VR Programmer.
+Thank you for checking my profile.
+With 2.5 years of experience in game programming and over 5 years specializing in the Unity Game Engine, I offer a strong foundation in C# programming. Beginning my career as a C# programmer in the game industry, I've worked on diverse projects, including mobile games, where I served as a Unity3D Game Engine programmer. Additionally, I've contributed to casino games, honing my skills as a Game Programmer. Furthermore, I've explored VR development, proficiently navigating Unreal Engine 5.1 and Unity as a VR Programmer. My versatile expertise and hands-on experience make me a valuable asset for any game programming team.
 
 ## Projects
 [<img src="https://github.com/SravanKairamkonda/sravankairamkonda/blob/main/Pick.png?raw=true" width="320" height="180">](https://github.com/SravanKairamkonda/TryYourLuck)<br>
