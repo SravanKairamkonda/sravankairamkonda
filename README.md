@@ -4,10 +4,6 @@
 Thank you for checking my profile.
 With 2.5 years of experience in game programming and over 5 years specializing in the Unity Game Engine, I offer a strong foundation in C# programming. Beginning my career as a C# programmer in the game industry, I've worked on diverse projects, including mobile games, where I served as a Unity3D Game Engine programmer. Additionally, I've contributed to casino games, honing my skills as a Game Programmer. Furthermore, I've explored VR development, proficiently navigating Unreal Engine 5.1 and Unity as a VR Programmer. My versatile expertise and hands-on experience make me a valuable asset for any game programming team.
 
-## Projects
-[<img src="https://github.com/SravanKairamkonda/sravankairamkonda/blob/main/Pick.png?raw=true" width="320" height="180">](https://github.com/SravanKairamkonda/TryYourLuck)<br>
-<!--em>You can just pass your time by guessing the cards. Try your luck where there is no progress and no competition since it is lucky. Give a chance how you are in it. if you are bored come back and guess whenever you are bored </em-->
-
 ## Skills and Technologies
 **`Game Programming Patterns`**
 **`Object Oriented Programming`**
@@ -15,8 +11,8 @@ With 2.5 years of experience in game programming and over 5 years specializing i
 **`Debugging and solving bugs`**
 **`Unity, C#`**
 **`Unreal Engine, C++`**
-## Professional Projects
-[<img src="https://github.com/SravanKairamkonda/sravankairamkonda/blob/main/Spin%20N%20Roll.jpg?raw=true" width="320" height="180">](https://play.google.com/store/apps/details?id=com.hungamagamestudio.bb&pli=1)
+
+
 
 ## Work Experience
 
@@ -32,8 +28,6 @@ London, England, United Kingdom · On-site<br>
 - Written code documentation and meeting deadlines before playtest day.
 - Deploying builds to VR headsets such as Oculus Quest 2, and HTC Vive Focus 3.
 
-
-
 Dec 2019 - Apr 2021 Junior Game Programmer <br>
 Gameshastra · Full-time<br>
 - Written clean and maintainable code with comments following the client’s architecture with their coding standards.
@@ -45,6 +39,9 @@ Gameshastra · Internship
 - Worked in a team to develop mini-games using Unity Assets, adapting changes to the games weekly.
 - Prototyping new tools and features by following game design documentation.
 - Built mobile games for Play Store and App Store to test the performance of the games as prototype versions for the clients.
+
+## Professional Projects
+[<img src="https://github.com/SravanKairamkonda/sravankairamkonda/blob/main/Spin%20N%20Roll.jpg?raw=true" width="320" height="180">](https://play.google.com/store/apps/details?id=com.hungamagamestudio.bb&pli=1)
 
 <!--
 ## Education
