@@ -24,8 +24,8 @@ With 2.5 years of experience in game programming and over 5 years specializing i
 Dec 2022 - Apr 2023 VR Programmer<br>
 Awen · Internship<br>
 London, England, United Kingdom · On-site<br>
-- Collaborating with artists and designers to develop game components in Unity and Unreal game engines.
-- Written code documentation and meeting deadlines before playtest day.
+- Collaborating with artists and designers to develop Unity and Unreal game engine game components.
+- Written code documentation and met deadlines before playtest day.
 - Deploying builds to VR headsets such as Oculus Quest 2, and HTC Vive Focus 3.
 
 Dec 2019 - Apr 2021 Junior Game Programmer <br>
