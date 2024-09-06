@@ -3,7 +3,7 @@
 <br>
 Thank you for checking my profile.
 With 2.5 years of experience in game programming and over 5 years specializing in the Unity Game Engine, I offer a strong foundation in C# programming. Beginning my career as a C# programmer in the game industry, I've worked on diverse projects, including mobile games, where I served as a Unity3D Game Engine programmer. Additionally, I've contributed to casino games, honing my skills as a Game Programmer. Furthermore, I've explored VR development, proficiently navigating Unreal Engine 5.1 and Unity as a VR Programmer. My versatile expertise and hands-on experience make me a valuable asset for any game programming team.
-
+<!--
 ## Skills and Technologies
 **`Game Programming Patterns`**
 **`Object Oriented Programming`**
@@ -43,7 +43,7 @@ Gameshastra · Internship
 ## Professional Projects
 [<img src="https://github.com/SravanKairamkonda/sravankairamkonda/blob/main/Spin%20N%20Roll.jpg?raw=true" width="320" height="180">](https://play.google.com/store/apps/details?id=com.hungamagamestudio.bb&pli=1)
 
-<!--
+
 ## Education
 Sep 2021 - Sep 2022 Goldsmiths, University of London<br>
 Master of Science - MS, Computer Games and Programming Skills<br>
